@@ -1,214 +1,333 @@
-<!--
-████████████████████████████████████████████████
-  PRANAVD53 · GITHUB PROFILE README
-████████████████████████████████████████████████
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,20:dc143c,50:1f6feb,80:f1c40f,100:16a34a&text=PRANAVD53&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    SPIDER-MAN PIXEL ART HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=70&lines=YOUR+FRIENDLY+NEIGHBORHOOD;DEVELOPER+%F0%9F%95%B7%EF%B8%8F;PranavD53" alt="Typing SVG" />
+
+<!-- Spider-Man Pixel Art Banner via SVG -->
+
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" style="image-rendering: pixelated;">
+  <defs>
+    <pattern id="web" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="40" y2="40" stroke="#CC000033" stroke-width="0.5"/>
+      <line x1="40" y1="0" x2="0" y2="40" stroke="#CC000033" stroke-width="0.5"/>
+      <line x1="20" y1="0" x2="20" y2="40" stroke="#CC000033" stroke-width="0.5"/>
+      <line x1="0" y1="20" x2="40" y2="20" stroke="#CC000033" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <!-- Dark BG -->
+  <rect width="800" height="200" fill="#0d0d0d"/>
+  <rect width="800" height="200" fill="url(#web)"/>
+
+  <!-- City skyline pixel art -->
+  <!-- Building 1 -->
+  <rect x="0" y="120" width="40" height="80" fill="#1a1a2e"/>
+  <rect x="5" y="110" width="30" height="10" fill="#1a1a2e"/>
+  <rect x="12" y="100" width="16" height="10" fill="#1a1a2e"/>
+  <!-- Windows -->
+  <rect x="8" y="125" width="6" height="6" fill="#FFD700" opacity="0.8"/>
+  <rect x="18" y="125" width="6" height="6" fill="#FFD700" opacity="0.6"/>
+  <rect x="28" y="125" width="6" height="6" fill="#FFD700" opacity="0.9"/>
+  <rect x="8" y="138" width="6" height="6" fill="#FFD700" opacity="0.4"/>
+  <rect x="18" y="138" width="6" height="6" fill="#FFD700" opacity="0.7"/>
+  <rect x="28" y="138" width="6" height="6" fill="#FFD700" opacity="0.5"/>
+  <rect x="8" y="151" width="6" height="6" fill="#FFD700" opacity="0.8"/>
+  <rect x="18" y="151" width="6" height="6" fill="#1a1a2e"/>
+  <rect x="28" y="151" width="6" height="6" fill="#FFD700" opacity="0.9"/>
+
+  <!-- Building 2 -->
+  <rect x="45" y="90" width="55" height="110" fill="#16213e"/>
+  <rect x="55" y="75" width="35" height="15" fill="#16213e"/>
+  <rect x="65" y="60" width="15" height="15" fill="#16213e"/>
+  <rect x="50" y="95" width="8" height="8" fill="#4fc3f7" opacity="0.7"/>
+  <rect x="62" y="95" width="8" height="8" fill="#4fc3f7" opacity="0.5"/>
+  <rect x="74" y="95" width="8" height="8" fill="#4fc3f7" opacity="0.9"/>
+  <rect x="86" y="95" width="8" height="8" fill="#4fc3f7" opacity="0.6"/>
+  <rect x="50" y="108" width="8" height="8" fill="#4fc3f7" opacity="0.4"/>
+  <rect x="62" y="108" width="8" height="8" fill="#4fc3f7" opacity="0.8"/>
+  <rect x="74" y="108" width="8" height="8" fill="#4fc3f7" opacity="0.3"/>
+  <rect x="86" y="108" width="8" height="8" fill="#4fc3f7" opacity="0.7"/>
+  <rect x="50" y="121" width="8" height="8" fill="#4fc3f7" opacity="0.9"/>
+  <rect x="62" y="121" width="8" height="8" fill="#4fc3f7" opacity="0.5"/>
+  <rect x="74" y="121" width="8" height="8" fill="#4fc3f7" opacity="0.8"/>
+  <rect x="86" y="121" width="8" height="8" fill="#4fc3f7" opacity="0.4"/>
+
+  <!-- Building 3 -->
+  <rect x="105" y="105" width="45" height="95" fill="#0f3460"/>
+  <rect x="110" y="92" width="35" height="13" fill="#0f3460"/>
+  <rect x="112" y="96" width="6" height="6" fill="#FFD700" opacity="0.6"/>
+  <rect x="122" y="96" width="6" height="6" fill="#FFD700" opacity="0.9"/>
+  <rect x="132" y="96" width="6" height="6" fill="#FFD700" opacity="0.4"/>
+  <rect x="112" y="109" width="6" height="6" fill="#FFD700" opacity="0.8"/>
+  <rect x="122" y="109" width="6" height="6" fill="#FFD700" opacity="0.3"/>
+  <rect x="132" y="109" width="6" height="6" fill="#FFD700" opacity="0.7"/>
+  <rect x="112" y="122" width="6" height="6" fill="#FFD700" opacity="0.5"/>
+  <rect x="122" y="122" width="6" height="6" fill="#FFD700" opacity="0.9"/>
+  <rect x="132" y="122" width="6" height="6" fill="#FFD700" opacity="0.6"/>
+  <rect x="112" y="135" width="6" height="6" fill="#FFD700" opacity="0.4"/>
+  <rect x="122" y="135" width="6" height="6" fill="#FFD700" opacity="0.8"/>
+  <rect x="132" y="135" width="6" height="6" fill="#FFD700" opacity="0.2"/>
+
+  <!-- Building 4 tall -->
+  <rect x="155" y="60" width="60" height="140" fill="#1a1a2e"/>
+  <rect x="165" y="45" width="40" height="15" fill="#1a1a2e"/>
+  <rect x="175" y="30" width="20" height="15" fill="#1a1a2e"/>
+  <rect x="183" y="18" width="4" height="12" fill="#FF0000" opacity="0.8"/>
+  <rect x="158" y="65" width="10" height="10" fill="#e0e0e0" opacity="0.5"/>
+  <rect x="172" y="65" width="10" height="10" fill="#e0e0e0" opacity="0.7"/>
+  <rect x="186" y="65" width="10" height="10" fill="#e0e0e0" opacity="0.4"/>
+  <rect x="200" y="65" width="10" height="10" fill="#e0e0e0" opacity="0.8"/>
+  <rect x="158" y="80" width="10" height="10" fill="#e0e0e0" opacity="0.6"/>
+  <rect x="172" y="80" width="10" height="10" fill="#e0e0e0" opacity="0.3"/>
+  <rect x="186" y="80" width="10" height="10" fill="#e0e0e0" opacity="0.9"/>
+  <rect x="200" y="80" width="10" height="10" fill="#e0e0e0" opacity="0.5"/>
+  <rect x="158" y="95" width="10" height="10" fill="#e0e0e0" opacity="0.7"/>
+  <rect x="172" y="95" width="10" height="10" fill="#e0e0e0" opacity="0.4"/>
+  <rect x="186" y="95" width="10" height="10" fill="#e0e0e0" opacity="0.6"/>
+  <rect x="200" y="95" width="10" height="10" fill="#e0e0e0" opacity="0.8"/>
+
+  <!-- SPIDER-MAN PIXEL ART (center) -->
+  <!-- Head -->
+  <rect x="365" y="30" width="8" height="8" fill="#FF0000"/>
+  <rect x="373" y="30" width="8" height="8" fill="#FF0000"/>
+  <rect x="381" y="30" width="8" height="8" fill="#FF0000"/>
+  <rect x="357" y="38" width="8" height="8" fill="#FF0000"/>
+  <rect x="365" y="38" width="8" height="8" fill="#FF0000"/>
+  <rect x="373" y="38" width="8" height="8" fill="#FF0000"/>
+  <rect x="381" y="38" width="8" height="8" fill="#FF0000"/>
+  <rect x="389" y="38" width="8" height="8" fill="#FF0000"/>
+  <!-- Eyes (white) -->
+  <rect x="365" y="38" width="6" height="6" fill="#FFFFFF"/>
+  <rect x="381" y="38" width="6" height="6" fill="#FFFFFF"/>
+  <!-- Body -->
+  <rect x="357" y="46" width="40" height="8" fill="#FF0000"/>
+  <rect x="365" y="46" width="24" height="8" fill="#FF0000"/>
+  <!-- Web lines on body -->
+  <rect x="369" y="46" width="2" height="8" fill="#8B0000"/>
+  <rect x="377" y="46" width="2" height="8" fill="#8B0000"/>
+  <rect x="385" y="46" width="2" height="8" fill="#8B0000"/>
+  <!-- Arms -->
+  <rect x="341" y="54" width="16" height="8" fill="#FF0000"/>
+  <rect x="397" y="54" width="16" height="8" fill="#FF0000"/>
+  <rect x="333" y="62" width="8" height="8" fill="#0000CD"/>
+  <rect x="413" y="62" width="8" height="8" fill="#0000CD"/>
+  <!-- Legs -->
+  <rect x="357" y="70" width="10" height="16" fill="#0000CD"/>
+  <rect x="381" y="70" width="10" height="16" fill="#0000CD"/>
+  <rect x="349" y="86" width="10" height="8" fill="#FF0000"/>
+  <rect x="389" y="86" width="10" height="8" fill="#FF0000"/>
+  <!-- Web swing line -->
+  <line x1="370" y1="30" x2="300" y2="0" stroke="#CCCCCC" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Right buildings -->
+  <rect x="590" y="80" width="50" height="120" fill="#16213e"/>
+  <rect x="595" y="68" width="40" height="12" fill="#16213e"/>
+  <rect x="598" y="73" width="6" height="6" fill="#FFD700" opacity="0.7"/>
+  <rect x="608" y="73" width="6" height="6" fill="#FFD700" opacity="0.4"/>
+  <rect x="618" y="73" width="6" height="6" fill="#FFD700" opacity="0.9"/>
+  <rect x="598" y="85" width="6" height="6" fill="#FFD700" opacity="0.5"/>
+  <rect x="608" y="85" width="6" height="6" fill="#FFD700" opacity="0.8"/>
+  <rect x="618" y="85" width="6" height="6" fill="#FFD700" opacity="0.3"/>
+  <rect x="598" y="98" width="6" height="6" fill="#FFD700" opacity="0.6"/>
+  <rect x="608" y="98" width="6" height="6" fill="#FFD700" opacity="0.9"/>
+  <rect x="618" y="98" width="6" height="6" fill="#FFD700" opacity="0.4"/>
+  <rect x="628" y="85" width="6" height="6" fill="#FFD700" opacity="0.7"/>
+  <rect x="628" y="98" width="6" height="6" fill="#FFD700" opacity="0.5"/>
+
+  <rect x="645" y="100" width="60" height="100" fill="#0f3460"/>
+  <rect x="650" y="88" width="50" height="12" fill="#0f3460"/>
+  <rect x="648" y="105" width="8" height="8" fill="#4fc3f7" opacity="0.6"/>
+  <rect x="660" y="105" width="8" height="8" fill="#4fc3f7" opacity="0.9"/>
+  <rect x="672" y="105" width="8" height="8" fill="#4fc3f7" opacity="0.4"/>
+  <rect x="684" y="105" width="8" height="8" fill="#4fc3f7" opacity="0.7"/>
+  <rect x="696" y="105" width="8" height="8" fill="#4fc3f7" opacity="0.5"/>
+  <rect x="648" y="118" width="8" height="8" fill="#4fc3f7" opacity="0.8"/>
+  <rect x="660" y="118" width="8" height="8" fill="#4fc3f7" opacity="0.3"/>
+  <rect x="672" y="118" width="8" height="8" fill="#4fc3f7" opacity="0.9"/>
+  <rect x="684" y="118" width="8" height="8" fill="#4fc3f7" opacity="0.5"/>
+  <rect x="696" y="118" width="8" height="8" fill="#4fc3f7" opacity="0.7"/>
+  <rect x="648" y="131" width="8" height="8" fill="#4fc3f7" opacity="0.4"/>
+  <rect x="660" y="131" width="8" height="8" fill="#4fc3f7" opacity="0.8"/>
+  <rect x="672" y="131" width="8" height="8" fill="#4fc3f7" opacity="0.2"/>
+  <rect x="684" y="131" width="8" height="8" fill="#4fc3f7" opacity="0.6"/>
+  <rect x="696" y="131" width="8" height="8" fill="#4fc3f7" opacity="0.9"/>
+
+  <rect x="710" y="110" width="45" height="90" fill="#1a1a2e"/>
+  <rect x="715" y="98" width="35" height="12" fill="#1a1a2e"/>
+  <rect x="714" y="114" width="6" height="6" fill="#FFD700" opacity="0.7"/>
+  <rect x="724" y="114" width="6" height="6" fill="#FFD700" opacity="0.4"/>
+  <rect x="734" y="114" width="6" height="6" fill="#FFD700" opacity="0.9"/>
+  <rect x="744" y="114" width="6" height="6" fill="#FFD700" opacity="0.5"/>
+  <rect x="714" y="127" width="6" height="6" fill="#FFD700" opacity="0.3"/>
+  <rect x="724" y="127" width="6" height="6" fill="#FFD700" opacity="0.8"/>
+  <rect x="734" y="127" width="6" height="6" fill="#FFD700" opacity="0.6"/>
+  <rect x="744" y="127" width="6" height="6" fill="#FFD700" opacity="0.9"/>
+
+  <rect x="760" y="90" width="40" height="110" fill="#16213e"/>
+  <rect x="765" y="78" width="30" height="12" fill="#16213e"/>
+  <rect x="762" y="94" width="6" height="6" fill="#e0e0e0" opacity="0.5"/>
+  <rect x="772" y="94" width="6" height="6" fill="#e0e0e0" opacity="0.8"/>
+  <rect x="782" y="94" width="6" height="6" fill="#e0e0e0" opacity="0.4"/>
+  <rect x="792" y="94" width="6" height="6" fill="#e0e0e0" opacity="0.7"/>
+  <rect x="762" y="107" width="6" height="6" fill="#e0e0e0" opacity="0.9"/>
+  <rect x="772" y="107" width="6" height="6" fill="#e0e0e0" opacity="0.3"/>
+  <rect x="782" y="107" width="6" height="6" fill="#e0e0e0" opacity="0.6"/>
+  <rect x="792" y="107" width="6" height="6" fill="#e0e0e0" opacity="0.8"/>
+
+  <!-- Ground glow -->
+  <rect x="0" y="190" width="800" height="10" fill="#FF0000" opacity="0.15"/>
+  <rect x="0" y="195" width="800" height="5" fill="#FF0000" opacity="0.08"/>
+</svg>
 
 ---
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ════════════════════════════════════════════════════════════
-     PIXEL HERO BANNER
-     SVG file hosted in the same repo → GitHub renders with
-     full CSS animations. No raw code leaks into the page.
-════════════════════════════════════════════════════════════ -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Pixel Heroes](./assets/pixel-heroes.svg)
+### 🕷️ `whoami`
 
-</div>
+```
+┌─────────────────────────────────┐
+│  > Name    : Pranav D           │
+│  > Role    : Developer          │
+│  > Base    : India              │
+│  > Mission : Sling clean code   │
+│              across the web     │
+│  > Status  : Always building... │
+└─────────────────────────────────┘
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ `current_mission`
+
+```python
+class SpiderDev:
+    name = "PranavD53"
+    power = "With great code comes
+             great responsibility"
+    
+    def daily_routine(self):
+        return [
+            "☕ Coffee",
+            "💻 Code",
+            "🐛 Debug",
+            "🚀 Deploy",
+            "🔁 Repeat"
+        ]
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK (Pixel Style)                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=DC143C&center=true&vCenter=true&multiline=true&width=680&height=56&lines=🕷️+Web-Slinger+|+🏴‍☠️+Open+Source+Pirate+|+🥊+Code+Boxer;Full-Stack+Dev+%7C+AI%2FML+Explorer+%7C+OSS+Contributor" alt="Typing SVG" />
+### ⚡ `tech_stack --list`
 
-</div>
-
----
-
-## 🎮 CHARACTER SELECT
-
-```
-╔══════════════════════════════════════════════════════╗
-║              🎮  CHARACTER SELECT                    ║
-╠══════════════════════════════════════════════════════╣
-║  🕹️  PLAYER    :  PRANAV D                          ║
-║  🕷️  CLASS     :  Full-Stack Web Dev                ║
-║  🏴‍☠️  QUEST     :  Find the One Piece of Open Source ║
-║  🥊  TRAINING  :  One Commit at a Time              ║
-║  ⭐  SPECIAL   :  Turning Ideas Into Reality        ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,github,vscode,linux,docker&theme=dark&perline=12" />
 
 ---
 
-## ⚡ SKILL TREE
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB STATS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+### 📊 `github --stats`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PranavD53&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF0000&icon_color=FF4500&text_color=FFFFFF&ring_color=FF0000" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavD53&theme=radical&hide_border=true&background=0d0d0d&ring=FF0000&fire=FF4500&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+</p>
 
-</div>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavD53&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF0000&text_color=FFFFFF" />
+</p>
 
 ---
 
-## 🎮 XP PROGRESS
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     ACTIVITY GRAPH                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-```
-🕷️  Web Dev          ████████████████████  ∞ XP   (Web-Slinger Level)
-🏴‍☠️  Open Source      ██████████████████░░  90 XP  (Future King Arc)
-🥊  Algorithms       ████████████████████  ∞ XP   (Dempsey Roll Unlocked)
-🤖  Machine Learning ████████████████░░░░  80 XP  (Grand Line Region)
-🐳  DevOps           ████████████░░░░░░░░  60 XP  (Garp Training Arc)
-🧠  System Design    ██████████████░░░░░░  70 XP  (Sea Floor Gravity)
-```
+### 🔴 `contribution --graph`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavD53&bg_color=0d0d0d&color=FF4500&line=FF0000&point=FFFFFF&area=true&area_color=FF000033&hide_border=true" width="100%"/>
 
 ---
 
-## 📊 BATTLE STATS
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     PIXEL ART SPIDER DIVIDER                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+### 🏆 `achievements --trophies`
 
-<a href="https://github.com/PranavD53">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=PranavD53&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=dc143c&icon_color=f1c40f&text_color=a3e635" />
-</a>
-<a href="https://github.com/PranavD53">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavD53&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=a3e635" />
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PranavD53&theme=tokyonight&hide_border=true&background=0d1117&ring=dc143c&fire=f1c40f&currStreakLabel=22c55e)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PranavD53&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
 
 ---
 
-## 🕷️ THE SPIDER VERSE — Web Dev Philosophy
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        SNAKE ANIMATION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-```
-╔══════════════════════════════════════════════════╗
-║  🕸️  Swinging between Frontend & Backend        ║
-║  🕷️  Catching bugs before they reach production  ║
-║  ⚡  "With great code comes great responsibility"║
-╚══════════════════════════════════════════════════╝
-```
+### 🐍 `watch the web grow`
 
-- 🌐 Building scalable web applications end-to-end
-- 🤖 Crafting AI/ML integrations that actually work
-- 🧪 Testing everything — no bug escapes the web
-- 🚀 Shipping products that make an impact
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavD53/PranavD53/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranavD53/PranavD53/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PranavD53/PranavD53/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
-## 🏴‍☠️ THE GRAND LINE — Open Source Quest
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT / SOCIAL                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-```
-╔══════════════════════════════════════════════════╗
-║  🏴‍☠️  DREAM    :  King of Open Source            ║
-║  🗺️  CURRENT  :  East Blue → Grand Line Arc      ║
-║  💎  TREASURE :  Knowledge & Collaboration       ║
-║  ⚓  CREW     :  Devs across the globe           ║
-╚══════════════════════════════════════════════════╝
-```
+### 🕷️ `./connect --with-me`
 
-- 📦 Contributing to open-source projects
-- 🧠 Mastering system design & architecture
-- 🌍 Collaborating with global developer crews
-- 🏆 Building projects that outlive the arc
-
----
-
-## 🥊 THE TRAINING ARC — Hajime no Code
-
-```
-╔══════════════════════════════════════════════════╗
-║  🥊  Every commit is another punch.             ║
-║  🏃  Consistency beats talent.                  ║
-║  🔥  Progress is built round by round.          ║
-║  💪  Dempsey Roll = Momentum Compound Learning  ║
-╚══════════════════════════════════════════════════╝
-```
-
-- 💻 Daily practice — roadwork never stops
-- 📘 One new technology per arc
-- 🔥 Maintaining commit streaks like Ippo's stamina
-- 🧩 Problem-solving is the jab; shipping is the cross
+<p align="center">
+  <a href="https://github.com/PranavD53">
+    <img src="https://img.shields.io/badge/GitHub-PranavD53-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 BOSS BATTLES (Featured Projects)
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     PIXEL FOOTER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-| 🎮 Project | 🕹️ Description | ⚡ Stack |
-|---|---|---|
-| 🕷️ **[Air-Draw-Pro](https://github.com/PranavD53/Air-Draw-Pro)** | AI-powered air gesture drawing | Python, CV |
-| 🏴‍☠️ **[Portfolio](https://github.com/PranavD53/Portfolio)** | Personal portfolio web voyage | JavaScript |
-| 🥊 **[100 Days 100 Projects](https://github.com/PranavD53/100DAYS_OF_100WEBPROJECTS)** | Frontend training arc — 1 project/day | HTML, CSS, JS |
+<svg width="100%" height="40" viewBox="0 0 800 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="40" fill="#0d0d0d"/>
+  <!-- pixel web pattern footer -->
+  <text x="400" y="26" font-family="monospace" font-size="11" fill="#FF0000" text-anchor="middle" opacity="0.7">
+    🕷️  "With great power comes great responsibility."  🕷️
+  </text>
+</svg>
 
----
-
-## 🗺️ ADVENTURE MAP (Contributions)
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavD53&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=dc143c&line=1f6feb&point=f1c40f)](https://github.com/PranavD53)
-
-</div>
-
----
-
-## 🌐 CONNECT WITH THE CREW
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavD53)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sricharanpranav-doddasomayajulu-49b516241)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spdportfo.netlify.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sricharanpranav1@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🕷️  "With great code comes great responsibility."             │
-│  🏴‍☠️  "I don't want to conquer anything. I just think the      │
-│        person with the most freedom in life is the winner."     │
-│  🥊  "No matter how hard or impossible it is, never lose       │
-│        sight of your goal." — Makunouchi Ippo                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PranavD53&label=PROFILE+VIEWS&color=dc143c&style=for-the-badge)
-
-```
-████████████████████████████████████████████████████████████
-█          🎮 GAME SAVED — Thanks for visiting!            █
-█     Swinging Through Code • Sailing Toward Dreams        █
-█               Training One Commit at a Time              █
-████████████████████████████████████████████████████████████
-```
+![Profile Views](https://komarev.com/ghpvc/?username=PranavD53&color=FF0000&style=for-the-badge&label=WEB+SLINGERS)
 
 </div>
