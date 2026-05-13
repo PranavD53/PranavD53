@@ -4,7 +4,7 @@
 <!--                    SPIDER-MAN PIXEL ART HEADER                     -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=70&lines=YOUR+FRIENDLY+NEIGHBORHOOD;DEVELOPER+%F0%9F%95%B7%EF%B8%8F;PranavD53" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=70&lines=YOUR+FRIENDLY+NEIGHBORHOOD;DEVELOPER🕷️;PranavD53" alt="Typing SVG" />
 
 <!-- Spider-Man Pixel Art Banner via SVG -->
 
