@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,20:dc143c,50:1f6feb,80:f1c40f,100:16a34a&text=PRANAVD53&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🕷️%20Spider-Man%20%7C%20🏴‍☠️%20One%20Piece%20%7C%20🥊%20Hajime%20No%20Ippo&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,20:dc143c,50:1f6feb,80:f1c40f,100:16a34a&text=PRANAVD53&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 
 </div>
 
