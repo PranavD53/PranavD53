@@ -305,11 +305,11 @@ class SpiderDev:
     <img src="https://img.shields.io/badge/GitHub-PranavD53-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/sricharanpranav-doddasomayajulu-49b516241">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sricharanpranav1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
   </a>
 </p>
